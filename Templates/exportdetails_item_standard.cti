@@ -1,0 +1,15 @@
+<template_info> 
+  <product>Music</product>
+  <description language='en'>Music Collector</description>
+  <description language='nl'>Music Collector</description>
+  <description language='fr'>Music Collector</description>
+  <description language='de'>Music Collector</description>  
+  <description language='sv'>Music Collector</description>   
+  <filename>view_item_details_v10.xsl</filename>
+  <template_type>exportdetails</template_type>
+  <item_type>2</item_type>
+  <supports_thumbnails>no</supports_thumbnails>
+  <supports_images>yes</supports_images>
+  <supports_navigation>yes</supports_navigation>
+</template_info>
+
