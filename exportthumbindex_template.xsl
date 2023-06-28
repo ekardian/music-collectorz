@@ -162,8 +162,6 @@
             </div></div></p>
     <p class="text-warning text-center">
     <a href="musica.pdf" class="btn btn-default btn-xs">Descargar lista completa de Música</a><br/>
-    <span style="line-height: 2.9em"><a href="http://ouo.io/CqGKZ7" class="btn btn-default btn-xs">Descargar Adobe Reader Android (APK)</a></span><br/>
-    <p class="text-center">Yacuiba-Bolivia, Descargas a pedido</p><br/></p>
   </nav>
 <!--end to web nav-->  
 <!--end added-->
