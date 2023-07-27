@@ -35,7 +35,7 @@
     <link rel="stylesheet" href="css/bootstrap.css"/>
     <link rel="stylesheet" href="css/bootstrap-theme.min.css"/>
     <META http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <meta property="og:title" content="Yacuiba - Bolivia: http://musica.biosxtreme.net" />
+    <meta property="og:title" content="http://musica.biosxtreme.net" />
     <meta property="og:url" content="http://musica.biosxtreme.net/" />
     <meta property="og:type" content="website" />
     <meta property="og:description" content="A la venta --> Colección     Películas - Documentales - Videotutoriales - Películas Cristianas - Películas Cristianas infantiles - Películas motivacionales" />
@@ -55,74 +55,12 @@
     <TITLE><REPORTHEADER/></TITLE>
   </HEAD>
   <BODY>
-    <!--<div align="center">-->
     <div class="container-fluid">
-    <!--<span class="title"><REPORTHEADER/></span>-->
-    <!--<h4 class="text-center"><REPORTHEADER/></h4>-->
     <p>
     <div class="headreport">
       <span class="headr1">Colección Música</span><span class="headr2"><REPORTHEADER/><sup><span id="ver">beta</span></sup></span>
     </div>
     </p>
-<!--added-->
-<!-- To local nav sin dominio -->
-    <!--<nav>
-    <p class="text-center">
-    <a href="../film/" class="btn btn-primary" role="button" data-toggle="tooltip" data-placement="bottom" title="&lt;h5&gt;Películas con contenido&lt;/h5&gt;&lt;div align='left'&gt; &lt;ul style='list-style-type: circle'&gt;&lt;li&gt;Documentales&lt;/li&gt;&lt;li&gt;Video tutoriales: Video2brain, vtc-training.com, illasaron.com, desarrolloweb.com, etc.&lt;/li&gt;&lt;li&gt;Películas Cristianas&lt;/li&gt;&lt;li&gt;Películas Cristianas infantiles&lt;/li&gt;&lt;li&gt;Películas Motivacionales&lt;/li&gt;&lt;li&gt;Clips de video&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;">Film</a>
-    <a href="../apps/" class="btn btn-primary" role="button" data-toggle="tooltip" data-placement="bottom" title="&lt;h5&gt;Programas para PC y móvil&lt;/h5&gt;&lt;div align='left'&gt;&lt;ul style='list-style-type: circle'&gt;&lt;li&gt;Utilitarios: Compresores, Decodificadores, Visores, etc&lt;/li&gt;&lt;li&gt;Diseñadores: CAD, 3D, 2D, Render, mapas para garmin&lt;/li&gt;&lt;li&gt;Visores/Diseño/Recursos: PDTuts, Digital Arts, Tutorial9.net, PSDFan.com, Planetphotoshop.com, etc.&lt;/li&gt;&lt;li&gt;Programación&lt;/li&gt;&lt;li&gt;S.O.,Codecs video, etc&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;">Aplicaciones</a>
-    <a href="../juegos/" class="btn btn-primary" role="button" data-toggle="tooltip" data-placement="bottom" title="PC-PSx-Android-PPSSPP">Juegos</a>
-    <a href="../music/" class="btn btn-primary" role="button" data-toggle="tooltip" data-placement="bottom" title="Música de todo género-tracks-mp3's">Música</a>
-    <a href="../libros/" class="btn btn-primary" role="button" data-toggle="tooltip" data-placement="bottom" title="Libros digitales en diferentes formatos-pdf-txt-cbr-ebook">Libros</a>
-    <a href="../comics/" class="btn btn-primary" role="button" data-toggle="tooltip" data-placement="bottom" title="Comics en diferentes formatos-pdf-cbr-ebook">Comics</a>
-    <a href="../info/" class="btn btn-primary" role="button" data-toggle="tooltip" data-placement="bottom" title="enlaces a la web principal y contenido">info.biosxtreme.net</a>
-    <a href="#" class="btn btn-info disabled" role="button" data-toggle="tooltip" data-placement="bottom" title="ayuda-howto-puf-faq">Soporte</a>
-    <p class="text-warning text-center">Todo el contendido en esta página ya están descargados y listos para entrega<br/>
-    <a href="musica.pdf" class="btn btn-default btn-xs">Descargar lista completa de música</a><br/>
-    <span style="line-height: 2.9em"><a href="pdf.reader-v15.2.2.apk" class="btn btn-default btn-xs">Descargar Adobe Reader Android (APK)</a></span><br/>
-    Yacuiba-Bolivia, Descargas a pedido<br/></p></p>
-  </nav>-->
-<!-- end to nav sin dominio -->
-<!--to local nav-->
-  <!-- <nav>
-    <p class="text-center">
-    <a href="http://film.biosxtreme.net/" class="btn btn-primary" role="button" data-toggle="tooltip" data-placement="bottom" title="&lt;h5&gt;Películas con contenido&lt;/h5&gt;&lt;div align='left'&gt; &lt;ul style='list-style-type: circle'&gt;&lt;li&gt;Documentales&lt;/li&gt;&lt;li&gt;Video tutoriales: Video2brain, vtc-training.com, illasaron.com, desarrolloweb.com, etc.&lt;/li&gt;&lt;li&gt;Películas Cristianas&lt;/li&gt;&lt;li&gt;Películas Cristianas infantiles&lt;/li&gt;&lt;li&gt;Películas Motivacionales&lt;/li&gt;&lt;li&gt;Clips de video&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;">Film</a>
-    <a href="http://apps.biosxtreme.net" class="btn btn-primary" role="button" data-toggle="tooltip" data-placement="bottom" title="&lt;h5&gt;Programas para PC y móvil&lt;/h5&gt;&lt;div align='left'&gt;&lt;ul style='list-style-type: circle'&gt;&lt;li&gt;Utilitarios: Compresores, Decodificadores, Visores, etc&lt;/li&gt;&lt;li&gt;Diseñadores: CAD, 3D, 2D, Render, mapas para garmin&lt;/li&gt;&lt;li&gt;Visores/Diseño/Recursos: PDTuts, Digital Arts, Tutorial9.net, PSDFan.com, Planetphotoshop.com, etc.&lt;/li&gt;&lt;li&gt;Programación&lt;/li&gt;&lt;li&gt;S.O.,Codecs video, etc&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;">Aplicaciones</a>
-    <a href="http://juegos.biosxtreme.net" class="btn btn-primary" role="button" data-toggle="tooltip" data-placement="bottom" title="PC-PSx-Android-PPSSPP">Juegos</a>
-    <a href="http://musica.biosxtreme.net" class="btn btn-primary" role="button" data-toggle="tooltip" data-placement="bottom" title="Música de todo género-tracks-mp3's">Música</a>
-    <a href="http://libros.biosxtreme.net" class="btn btn-primary" role="button" data-toggle="tooltip" data-placement="bottom" title="Libros digitales en diferentes formatos-pdf-txt-cbr-ebook">Libros</a>
-    <a href="http://comics.biosxtreme.net" class="btn btn-primary" role="button" data-toggle="tooltip" data-placement="bottom" title="Comics en diferentes formatos-pdf-cbr-ebook">Comics</a>
-    <a href="http://info.biosxtreme.net" class="btn btn-primary" role="button" data-toggle="tooltip" data-placement="bottom" title="enlaces a la web principal y contenido">info.biosxtreme.net</a>
-    <a href="#" class="btn btn-info disabled" role="button" data-toggle="tooltip" data-placement="bottom" title="ayuda-howto-puf-faq">Soporte</a>
-    <p>
-  <div style="text-align: center">
-    <div class="btn-group dropdown">
-              <button class="btn btn-warning dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Buscar en ...<span class="caret"></span>
-              </button>
-              <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-                <li>
-                  <a href="http://tube.biosxtreme.net/bf">Pel&#237;culas-Videos</a>
-                </li>
-                <li>
-                  <a href="http://tube.biosxtreme.net/bj">Juegos</a>
-                </li>
-                <li>
-                  <a href="http://tube.biosxtreme.net/bm">M&#250;sica</a>
-                </li>
-                <li>
-                  <a href="http://tube.biosxtreme.net/bl">Libros</a>
-                </li>
-                <li>
-                  <a href="http://tube.biosxtreme.net/bc">Comics</a>
-                </li>
-              </ul>
-            </div></div></p>
-    <p class="text-warning text-center">Todo el contendido en esta página ya están descargados y listos para entrega<br/>
-    <a href="musica.pdf" class="btn btn-default btn-xs">Descargar lista completa de música</a><br/>
-    <span style="line-height: 2.9em"><a href="pdf.reader-v15.2.2.apk" class="btn btn-default btn-xs">Descargar Adobe Reader Android (APK)</a></span><br/>
-    Yacuiba-Bolivia, Descargas a pedido<br/></p></p>
-  </nav> -->
-<!--end to local nav-->
-<!--to web nav-->
   <nav>
     <p class="text-center">
     <a href="http://film.biosxtreme.net/" class="btn btn-primary" role="button" data-toggle="tooltip" data-placement="bottom" title="&lt;h5&gt;Películas con contenido&lt;/h5&gt;&lt;div align='left'&gt; &lt;ul style='list-style-type: circle'&gt;&lt;li&gt;Documentales&lt;/li&gt;&lt;li&gt;Video tutoriales: Video2brain, vtc-training.com, illasaron.com, desarrolloweb.com, etc.&lt;/li&gt;&lt;li&gt;Películas Cristianas&lt;/li&gt;&lt;li&gt;Películas Cristianas infantiles&lt;/li&gt;&lt;li&gt;Películas Motivacionales&lt;/li&gt;&lt;li&gt;Clips de video&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;">Film</a>
@@ -133,7 +71,7 @@
     <a href="http://comics.biosxtreme.net" class="btn btn-primary" role="button" data-toggle="tooltip" data-placement="bottom" title="Comics en diferentes formatos-pdf-cbr-ebook">Comics</a>
     <a href="http://info.biosxtreme.net" class="btn btn-primary" role="button" data-toggle="tooltip" data-placement="bottom" title="enlaces a la web principal y contenido">info.biosxtreme.net</a>
     <a href="#" class="btn btn-info disabled" role="button" data-toggle="tooltip" data-placement="bottom" title="ayuda-howto-puf-faq">Soporte</a>
-    <a href="https://www.facebook.com/ClipsInfoContenido" class="btn btn-primary" role="button" data-toggle="tooltip" data-placement="bottom" title="facebook-novedades">facebook-Pedidos</a></p>
+    <a href="https://www.facebook.com/ClipsInfoContenido" class="btn btn-primary" role="button" data-toggle="tooltip" data-placement="bottom" title="facebook-novedades">facebook</a></p>
     <p>
   <div style="text-align: center">
     <div class="btn-group dropdown">
@@ -164,7 +102,6 @@
     <a href="musica.pdf" class="btn btn-default btn-xs">Descargar lista completa de Música</a><br/>
   </nav>
 <!--end to web nav-->  
-<!--end added-->
     <xsl:apply-templates select="musicinfo/navigation"/>
     <br/>
     <!--<table>-->
