@@ -100,6 +100,7 @@
             </div></div></p>
     <p class="text-warning text-center">
     <a href="musica.pdf" class="btn btn-default btn-xs">Descargar lista completa de Música</a><br/>
+    </p>
   </nav>
 <!--end to web nav-->  
     <xsl:apply-templates select="musicinfo/navigation"/>
